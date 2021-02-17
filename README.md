@@ -18,8 +18,12 @@ This script is meant to make it easier for first time users of a web server to i
 
 `sudo bash finalScript.sh (database name / folder name) (domain) (email)`
 
+Example:
+
+`sudo bash finalScript.sh wordpress kavipatel.xyz kavipatel@kavipatel.xyz`
+
+If you need help or have any questions, feel free to reach out to me with the information from above! 
+
 <br>
 <h2>How Much of the Process Will This Take Care of</h2>
-If ran in it's entirety, this script will take care of everything. From start to finish. It will get the API keys from Wordpress servers as well to authorize the wordpress install. 
-This script will also create the NGINX file associated with the folder that needs to be published on the web. On top of all that, this script will get an SSL certificate to secure your wordpress website.
-Once ran, you can access the wordpress site by typing in the domain name. 
+If ran in it's entirety, this script will take care of everything. From start to finish. It will get the API keys from Wordpress servers as well to authorize the wordpress install. This script will also create the NGINX file associated with the folder that needs to be published on the web. On top of all that, this script will get an SSL certificate to secure your wordpress website. Once ran, you can access the wordpress site by typing in the domain name. 
