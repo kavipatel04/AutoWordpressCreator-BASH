@@ -15,7 +15,8 @@ This script is meant to make it easier for first time users of a web server to i
 
 <br>
 <h2>How to Run</h2>
-'sudo bash finalScript.sh (database name / folder name) (domain) (email)'
+
+`sudo bash finalScript.sh (database name / folder name) (domain) (email)`
 
 <br>
 <h2>How Much of the Process Will This Take Care of</h2>
