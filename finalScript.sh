@@ -1,4 +1,4 @@
-mysql -u masteruser -pKavip_2004 -e "CREATE DATABASE $1";
+mysql -u [ur_user] -p[ur_passwd] -e "CREATE DATABASE $1";
 
 cd /tmp;
 curl -LO https://wordpress.org/latest.tar.gz;
